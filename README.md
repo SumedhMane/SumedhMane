@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumedh Mane</h1>
-<h3 align="center">A Machine Learning Developer</h3>
+<h3 align="center">A BackEnd Developer</h3>
 <img align="right" alt="Coding" width="400" src="banner.jpg">
 
 <h3 align="left">Connect with me:</h3>
